@@ -1,0 +1,15 @@
+com/hfdp/simulator/MiniDuckSimulator.class
+com/hfdp/App.class
+com/hfdp/duck/model/MallardDuck.class
+com/hfdp/duck/behavior/fly/FlyBehavior.class
+com/hfdp/duck/behavior/fly/FlyWithWings.class
+com/hfdp/duck/behavior/quack/Quack.class
+com/hfdp/duck/behavior/quack/Squeak.class
+com/hfdp/duck/behavior/quack/QuackBehavior.class
+com/hfdp/duck/model/DecoyDuck.class
+com/hfdp/duck/behavior/fly/FlyNoWay.class
+com/hfdp/duck/model/ModelDuck.class
+com/hfdp/duck/model/Duck.class
+com/hfdp/duck/behavior/quack/MuteQuack.class
+com/hfdp/duck/behavior/fly/FlyRocketPowered.class
+com/hfdp/duck/model/RubberDuck.class

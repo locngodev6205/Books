@@ -1,0 +1,10 @@
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/api/Subject.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/display/CurrentConditionsDisplay.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/display/ForecastDisplay.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/api/Observer.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/data/WeatherData.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/display/StatisticsDisplay.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/display/HeatIndexDisplay.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/WeatherStation.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/weather/api/DisplayElement.java
+/mnt/windows/Users/62205/Documents/locngo/self-study/Design Patterns/chapter02-weather/src/main/java/com/example/App.java
